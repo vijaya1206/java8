@@ -8,6 +8,8 @@ import java.util.Comparator;
 import java.util.List;
 
 public class FirstLambda {
+	
+	// This code is to illustrate java8 features
 	public static void main(String[] args) {
 		// Anonymous class
 		FileFilter fleFilter = new FileFilter() {
